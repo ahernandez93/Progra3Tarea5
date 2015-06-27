@@ -55,3 +55,31 @@
 1417295950 source:/home/allan/Escritorio/Progra3Tarea5-master/Nodo.cpp
 	"Nodo.h"
 
+1417295950 source:g:\programacion iii 2015\progra3tarea5-master\evaluador.cpp
+	"Evaluador.h"
+
+1417295950 g:\programacion iii 2015\progra3tarea5-master\evaluador.h
+	<iostream>
+	<fstream>
+	<stack>
+	"Lista.h"
+
+1435377276 g:\programacion iii 2015\progra3tarea5-master\lista.h
+	<iostream>
+	"Nodo.h"
+
+1417295950 g:\programacion iii 2015\progra3tarea5-master\nodo.h
+	<iostream>
+
+1417295950 source:g:\programacion iii 2015\progra3tarea5-master\lista.cpp
+	"Lista.h"
+
+1417295950 source:g:\programacion iii 2015\progra3tarea5-master\main.cpp
+	"Lista.h"
+	"Evaluador.h"
+	<fstream>
+	<math.h>
+
+1417295950 source:g:\programacion iii 2015\progra3tarea5-master\nodo.cpp
+	"Nodo.h"
+
